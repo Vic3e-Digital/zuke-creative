@@ -3,7 +3,7 @@
         "slider": [
             {
                 "id": 1,
-                "backgroundImage": "img/media/Zuke_Kiss_6.png",
+                "backgroundImage": "img/hero-slider/hero-3.webp",
                 "title": "Vouge Italia Deember Campaign",
                 "subTitle": "inspire 2026",
                 "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
@@ -11,7 +11,7 @@
             },
             {
                 "id": 2,
-                "backgroundImage": "img/media/Zuke_Kiss_7.png",
+                "backgroundImage": "img/hero-slider/hero-2.webp",
                 "title": "Vouge Italia Deember Campaign",
                 "subTitle": "inspire 2026",
                 "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
@@ -19,7 +19,7 @@
             },
             {
                 "id": 3,
-                "backgroundImage": "/img/media/Zuke_Kiss_1.png",
+                "backgroundImage": "img/hero-slider/hero-1.webp",
                 "title": "Vouge Italia Deember Campaign",
                 "subTitle": "inspire 2026",
                 "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
@@ -28,6 +28,6 @@
         ]
     },
     {
-        "qute": "Alexis Photography Studio based in Portland, <br /> Oregon. I specialises in shooting liquids and my colourful liquid work, titled “Biford”, has become very well <br /> known and collectable."
+        "qute": "<br>Zuke.Creative is the dynamic creative division of Zuke.Foundry, dedicated to developing African businesses through media, marketing, and storytelling. We feature a thriving ecosystem of creatives, including models, photographers, and other artistic professionals, all working together to elevate brands and tell authentic stories that drive growth and success.<br>"
     }
 ]

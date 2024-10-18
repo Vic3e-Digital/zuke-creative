@@ -20,7 +20,7 @@ const BlogDate = ({
     return (
         <React.Fragment>
             <Layout>
-                <SEO title="Alexis || Blog Date" />
+                <SEO title="Zuke Creative || Blog Date" />
                 <div className="wrapper home-default-wrapper">
                     <Header classOption="hb-border" />
                     <div className="main-content">

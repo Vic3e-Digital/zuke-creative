@@ -16,10 +16,10 @@ const Footer = () => {
                                                 <Link
                                                     to={
                                                         process.env.PUBLIC_URL +
-                                                        "/"
+                                                        "/join/"
                                                     }
                                                 >
-                                                    term &amp; condition
+                                                    Join Our Ecosystem
                                                 </Link>
                                             </li>
                                             <li>
@@ -29,7 +29,7 @@ const Footer = () => {
                                                         "/"
                                                     }
                                                 >
-                                                    policy
+                                                    About Zuke
                                                 </Link>
                                             </li>
                                             <li>
@@ -49,19 +49,19 @@ const Footer = () => {
                             <div className="widget-item text-center">
                                 <div className="about-widget">
                                     <FooterLogo
-                                        image={`${process.env.PUBLIC_URL}/img/logo.png`}
+                                        image={`${process.env.PUBLIC_URL}/img/zuke-creative-logo.png`}
                                     />
                                 </div>
                                 <div className="widget-copyright">
                                     <p>
-                                        © 2021 <span>Alexis</span>. Made with{" "}
+                                        © 2024 <span>Zuke</span>. Made with{" "}
                                         <i className="icofont-heart-alt"></i> by{" "}
                                         <a
                                             target="_blank"
-                                            href="https://www.hasthemes.com"
+                                            href="https://vic3e.digital"
                                             rel="noreferrer"
                                         >
-                                            HasThemes
+                                            Vic3e.Digital
                                         </a>
                                     </p>
                                 </div>
@@ -82,7 +82,7 @@ const Footer = () => {
                                     </li>
                                     <li>
                                         <a
-                                            href="https://www.facebook.com/"
+                                            href="https://www.facebook.com/Zuke.Marketplace/"
                                             target="_blank"
                                             rel="noopener noreferrer"
                                         >
@@ -91,7 +91,7 @@ const Footer = () => {
                                     </li>
                                     <li>
                                         <a
-                                            href="https://www.instagram.com/"
+                                            href="https://www.instagram.com/Zuke.Marketplace"
                                             target="_blank"
                                             rel="noopener noreferrer"
                                         >

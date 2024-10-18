@@ -18,7 +18,7 @@ const PortfolioDetails = ({
     return (
         <React.Fragment>
             <Layout>
-                <SEO title="Alexis || Portfolio Details" />
+                <SEO title="Zuke Creative || Portfolio Details" />
                 <div className="wrapper home-default-wrapper">
                     <Header classOption="hb-border" />
                     <div className="main-content">

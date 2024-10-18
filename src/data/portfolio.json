@@ -2,245 +2,54 @@
     {
         "id": 1,
         "type": "image",
-        "homeImage": "img/media/Zuke_Kiss_6.png",
-        "title": "Daniel Raclift",
-        "excerpt": "Mango Fashion Lookbook Campaign",
-        "categories": ["featured", "new added"],
-        "client": "Archo Architecture <br />Bureau, SG",
-        "date": "September 25th <br />2020",
-        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
-        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "homeImage": "img/media/Zuke_Kiss_1.png",
+        "title": "Kiss Media Production",
+        "excerpt": "Production solutions that make sense. Commercial photography, corporate, fashion, and weddings.",
+        "categories": ["featured", "graduation"],
+        "client": "Kiss Media Production",
+        "date": "October 2024",
+        "team": "Pat - Photographer",
+        "services": "Commercial, Fashion, Corporate, Weddings",
         "body": [
-            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
-            ""
+            "<p>Specializing in creating impactful visuals, Kiss Media Production delivers high-quality content for a variety of events and commercial needs. With expertise across corporate, fashion, and wedding photography, Pat ensures that every moment is captured beautifully.</p>"
         ],
         "pageUrl": {
-            "text": "https://yourwebsite.com",
+            "text": "https://kismediaproduction.com",
             "link": "/"
         },
         "gallery": {
             "imageOne": "img/media/Zuke_Kiss_1.png",
-            "imageTwo": "./img/portfolio/s2.jpg",
-            "imageThree": "./img/portfolio/s3.jpg",
-            "imageFour": "./img/portfolio/sv1.jpg",
-            "imageFive": "./img/portfolio/s4.jpg"
+            "imageTwo": "img/media/Zuke_Kiss_3.png",
+            "imageThree": "img/media/Zuke_Kiss_4.png",
+            "imageFour": "img/media/Zuke_Kiss_5.png",
+            "imageFive": "img/media/Zuke_Kiss_7.png"
         }
     },
+
     {
         "id": 2,
         "type": "image",
-        "homeImage": "img/media/Zuke_Kiss_4.png",
-        "title": "Designer Linocut",
-        "excerpt": "Mango Fashion Lookbook Campaign",
-        "categories": ["popular", "nature"],
-        "client": "Archo Architecture <br />Bureau, SG",
-        "date": "September 25th <br />2020",
-        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
-        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "homeImage": "img/ramiieg/Zuke_Ramaanda_1.jpeg",
+        "title": "Ramiie G Photography",
+        "excerpt": "Lifestyle, wedding, and event photography, capturing stories through the lens.",
+        "categories": ["graduation"],
+        "client": "Ramiie G Photography",
+        "date": "October 2024",
+        "team": "Ramaanda - Founder & Photographer",
+        "services": "Lifestyle, Wedding, Event Photography",
         "body": [
-            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
-            ""
+            "<p>Founded by Ramaanda Mutshekwa, Ramiie G Photography specializes in capturing life's most important moments. From weddings and events to lifestyle shoots, Ramaanda brings a storytelling approach to every session, ensuring your story is told through beautiful, timeless images.</p>",
+            "<p>After transitioning from a career as an industrial engineer, Ramaanda found his true passion in photography, allowing him to travel the world and capture unique stories from different cultures and experiences. Whether it's your special day or a moment worth cherishing, Ramiie G Photography is dedicated to telling it better through the lens.</p>"
         ],
         "pageUrl": {
-            "text": "https://yourwebsite.com",
+            "text": "https://ramiieg.com",
             "link": "/"
         },
         "gallery": {
-            "imageOne": "./img/portfolio/s1.jpg",
-            "imageTwo": "./img/portfolio/s2.jpg",
-            "imageThree": "./img/portfolio/s3.jpg",
-            "imageFour": "./img/portfolio/sv1.jpg",
-            "imageFive": "./img/portfolio/s4.jpg"
-        }
-    },
-    {
-        "id": 3,
-        "type": "video",
-        "homeImage": "img/media/Zuke_Kiss_2.png",
-        "videoUrl": "https://www.youtube.com/embed/KzhSW1Ztq1w",
-        "title": "Designer Collagraph",
-        "excerpt": "Mango Fashion Lookbook Campaign",
-        "categories": ["background", "old"],
-        "client": "Archo Architecture <br />Bureau, SG",
-        "date": "September 25th <br />2020",
-        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
-        "services": "Natural, Studio, Commercial, <br />Portrait",
-        "body": [
-            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
-            ""
-        ],
-        "pageUrl": {
-            "text": "https://yourwebsite.com",
-            "link": "/"
-        },
-        "gallery": {
-            "imageOne": "./img/portfolio/s1.jpg",
-            "imageTwo": "./img/portfolio/s2.jpg",
-            "imageThree": "./img/portfolio/s3.jpg",
-            "imageFour": "./img/portfolio/sv1.jpg",
-            "imageFive": "./img/portfolio/s4.jpg"
-        }
-    },
-    {
-        "id": 4,
-        "type": "image",
-        "homeImage": "img/media/Zuke_Kiss_4.png",
-        "title": "Designer Engraving",
-        "excerpt": "Mango Fashion Lookbook Campaign",
-        "categories": ["sport", "design"],
-        "client": "Archo Architecture <br />Bureau, SG",
-        "date": "September 25th <br />2020",
-        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
-        "services": "Natural, Studio, Commercial, <br />Portrait",
-        "body": [
-            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
-            ""
-        ],
-        "pageUrl": {
-            "text": "https://yourwebsite.com",
-            "link": "/"
-        },
-        "gallery": {
-            "imageOne": "./img/portfolio/s1.jpg",
-            "imageTwo": "./img/portfolio/s2.jpg",
-            "imageThree": "./img/portfolio/s3.jpg",
-            "imageFour": "./img/portfolio/sv1.jpg",
-            "imageFive": "./img/portfolio/s4.jpg"
-        }
-    },
-    {
-        "id": 5,
-        "type": "image",
-        "homeImage": "img/media/Zuke_Kiss_5.png",
-        "title": "Working Remotely",
-        "excerpt": "Mango Fashion Lookbook Campaign",
-        "categories": ["human", "cities"],
-        "client": "Archo Architecture <br />Bureau, SG",
-        "date": "September 25th <br />2020",
-        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
-        "services": "Natural, Studio, Commercial, <br />Portrait",
-        "body": [
-            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
-            ""
-        ],
-        "pageUrl": {
-            "text": "https://yourwebsite.com",
-            "link": "/"
-        },
-        "gallery": {
-            "imageOne": "./img/portfolio/s1.jpg",
-            "imageTwo": "./img/portfolio/s2.jpg",
-            "imageThree": "./img/portfolio/s3.jpg",
-            "imageFour": "./img/portfolio/sv1.jpg",
-            "imageFive": "./img/portfolio/s4.jpg"
-        }
-    },
-    {
-        "id": 6,
-        "type": "image",
-        "homeImage": "img/media/Zuke_Kiss_7.png",
-        "title": "White Paper",
-        "excerpt": "Mango Fashion Lookbook Campaign",
-        "categories": ["colors", "products"],
-        "client": "Archo Architecture <br />Bureau, SG",
-        "date": "September 25th <br />2020",
-        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
-        "services": "Natural, Studio, Commercial, <br />Portrait",
-        "body": [
-            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
-            ""
-        ],
-        "pageUrl": {
-            "text": "https://yourwebsite.com",
-            "link": "/"
-        },
-        "gallery": {
-            "imageOne": "./img/portfolio/s1.jpg",
-            "imageTwo": "./img/portfolio/s2.jpg",
-            "imageThree": "./img/portfolio/s3.jpg",
-            "imageFour": "./img/portfolio/sv1.jpg",
-            "imageFive": "./img/portfolio/s4.jpg"
-        }
-    },
-    {
-        "id": 7,
-        "type": "image",
-        "homeImage": "img/media/Zuke_Kiss_3.png",
-        "title": "Connect Online",
-        "excerpt": "Mango Fashion Lookbook Campaign",
-        "categories": ["featured", "new added"],
-        "client": "Archo Architecture <br />Bureau, SG",
-        "date": "September 25th <br />2020",
-        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
-        "services": "Natural, Studio, Commercial, <br />Portrait",
-        "body": [
-            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
-            ""
-        ],
-        "pageUrl": {
-            "text": "https://yourwebsite.com",
-            "link": "/"
-        },
-        "gallery": {
-            "imageOne": "./img/portfolio/s1.jpg",
-            "imageTwo": "./img/portfolio/s2.jpg",
-            "imageThree": "./img/portfolio/s3.jpg",
-            "imageFour": "./img/portfolio/sv1.jpg",
-            "imageFive": "./img/portfolio/s4.jpg"
-        }
-    },
-    {
-        "id": 8,
-        "type": "image",
-        "homeImage": "img/media/Zuke_Kiss_6.png",
-        "title": "Dog With Fun",
-        "excerpt": "Mango Fashion Lookbook Campaign",
-        "categories": ["popular", "nature"],
-        "client": "Archo Architecture <br />Bureau, SG",
-        "date": "September 25th <br />2020",
-        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
-        "services": "Natural, Studio, Commercial, <br />Portrait",
-        "body": [
-            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
-            ""
-        ],
-        "pageUrl": {
-            "text": "https://yourwebsite.com",
-            "link": "/"
-        },
-        "gallery": {
-            "imageOne": "./img/portfolio/s1.jpg",
-            "imageTwo": "./img/portfolio/s2.jpg",
-            "imageThree": "./img/portfolio/s3.jpg",
-            "imageFour": "./img/portfolio/sv1.jpg",
-            "imageFive": "./img/portfolio/s4.jpg"
-        }
-    },
-    {
-        "id": 9,
-        "type": "image",
-        "homeImage": "img/media/Zuke_Kiss_2.png",
-        "title": "Salfe Made",
-        "excerpt": "Mango Fashion Lookbook Campaign",
-        "categories": ["background", "old"],
-        "client": "Archo Architecture <br />Bureau, SG",
-        "date": "September 25th <br />2020",
-        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
-        "services": "Natural, Studio, Commercial, <br />Portrait",
-        "body": [
-            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
-            ""
-        ],
-        "pageUrl": {
-            "text": "https://yourwebsite.com",
-            "link": "/"
-        },
-        "gallery": {
-            "imageOne": "./img/portfolio/s1.jpg",
-            "imageTwo": "./img/portfolio/s2.jpg",
-            "imageThree": "./img/portfolio/s3.jpg",
-            "imageFour": "./img/portfolio/sv1.jpg",
-            "imageFive": "./img/portfolio/s4.jpg"
+            "imageOne": "img/portfolio/Zuke_Ramaanda_2.jpeg",
+            "imageTwo": "img/portfolio/Zuke_Ramaanda_3.jpeg",
+            "imageThree": "img/portfolio/Zuke_Ramaanda_4.jpeg"
         }
     }
+    
 ]

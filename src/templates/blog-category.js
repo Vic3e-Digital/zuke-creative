@@ -25,7 +25,7 @@ const BlogCategory = ({
     return (
         <React.Fragment>
             <Layout>
-                <SEO title="Alexis || Blog Category" />
+                <SEO title="Zuke Creative || Blog Category" />
                 <div className="wrapper home-default-wrapper">
                     <Header classOption="hb-border" />
                     <div className="main-content">
